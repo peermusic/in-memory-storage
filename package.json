@@ -1,0 +1,24 @@
+{
+  "name": "in-memory-storage",
+  "version": "0.1.0",
+  "description": "Store data in memory with a persistance layer using localStorage",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peermusic/in-memory-storage.git"
+  },
+  "keywords": [
+    "localStorage",
+    "wrapper",
+    "memory"
+  ],
+  "author": "https://github.com/orgs/peermusic/",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peermusic/in-memory-storage/issues"
+  },
+  "homepage": "https://github.com/peermusic/in-memory-storage#readme"
+}
