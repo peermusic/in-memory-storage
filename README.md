@@ -1,6 +1,6 @@
 # Storage in memory
 
-A tiny module to only read/write localStorage whenever neccessary, and else keeping data in memory. It also handles converting data into JSON.
+A tiny module to only read/write localStorage whenever neccessary, and else keeping data in memory. It also handles converting data so you can pass objects/arrays into it.
 
 ## Install
 
