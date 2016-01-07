@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/peermusic/in-memory-storage/issues"
   },
-  "homepage": "https://github.com/peermusic/in-memory-storage#readme"
+  "homepage": "https://github.com/peermusic/in-memory-storage#readme",
+  "devDependencies": {
+    "standard": "^5.4.1"
+  }
 }
